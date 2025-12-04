@@ -2,9 +2,15 @@ Project Report
 
 What is your project about?
 
+My project was about exploring the streets of japan in vr. The player goes through a small story of helping a lost kid find his mom and going to the convince store. 
+
 What was the additional skill?
 
+The additional skill was adding in coded elements like objectives, markers and a dialogue manager. Also adding in voice acting for the characters. 
+
 What was a key challenge you overcame or an element of the project you want to highlight?
+
+I want to highlight the dialogue system I was most excited to work on that part of the project. I worked in garage band and made some sounds myself like the stomach rumbling sound. I also think it’s cool I could get 3 Japanese classmates to do voice lines for me. It was difficult getting the voice lines converting them and figuring out garage band, mixing audio, and using it in unity.
 
 Screenshots of project
 
